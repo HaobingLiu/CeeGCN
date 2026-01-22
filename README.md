@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Title:Graph Structure Learning with Scale Contraction for Weighted Graph Clustering
 
 #Requirements
@@ -55,3 +56,6 @@ u.item     -- Information about the items (movies); this is a tab separated list
 #Run
 run.py to train the sampled graph and save the best model parameters. Then, input the original graph into the model to obtain the final clustering results.
 
+=======
+# CeeGCN
+>>>>>>> 3665b7009f32b84cbb22b9a49a6cbe3263ebd653
